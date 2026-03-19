@@ -1,0 +1,61 @@
+
+.odin-recipes{
+    color: #815d19;
+    background-color: #d6aa58;
+    text-align: center;
+    width: 250px;
+    margin: 0 auto;
+    border-style: solid;
+    border-color: #815d19;
+    font-family: "Times New Roman", Arial, sans-serif;
+}
+
+#recipes{
+    box-sizing: border-box;
+    font-size: 32px;
+    background-color: #cc904c;
+    padding: 8px;
+    text-align: center;
+    width: 300px;
+    margin: 8px auto;
+    list-style: none;
+    margin-top: 32px;
+    border-style: dashed;
+    border-color: #815d19;
+}
+
+.first-recipe{
+    margin-bottom: 8px;
+    padding: 8px;
+    background-color: #d6aa58;
+}
+
+.second-recipe{
+    margin-bottom: 8px;
+    padding: 8px;
+    background-color: #d6aa58;
+}
+
+.third-recipe{
+    padding: 8px;
+    background-color: #d6aa58;
+}
+
+.lasagna-heading{
+    text-align: center;
+    border-style: solid;
+    border-color: #cc904c;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.change-size{
+    font-size: 20px;
+}
+
+.lasagna-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
